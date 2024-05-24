@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 #### Skills
 
 https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
