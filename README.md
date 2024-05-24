@@ -1,4 +1,4 @@
-## Hi I'm Seungyeol 👋
+## Hi I'm y3ori 👋
 
 
 <!--
