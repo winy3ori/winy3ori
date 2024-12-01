@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=winy3ori)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winy3ori)](https://solved.ac/winy3ori)
