@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.sh/github.com/winy3ori.svg?style=flat-square)](https://hits.sh/github.com/winy3ori/)
-
+<a href="https://hits.sh/github.com/winy3ori/"><img alt="Hits" src="https://hits.sh/github.com/winy3ori.svg?view=today-total&logo=github" align="right"/></a>
     
 [![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat=sqaure&logo=Velog&logoColor=white&link=https://velog.io/@winy3ori_)](https://velog.io/@winy3ori_)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winy3ori@gmail.com)](mailto:winy3ori@gmail.com)
