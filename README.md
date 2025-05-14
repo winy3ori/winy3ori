@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fwiny3ori?color=green&label=hits&size=small)](https://myhits.vercel.app)
+[![Hits](https://hits.sh/github.com/winy3ori.svg?style=flat-square)](https://hits.sh/github.com/winy3ori/)
 
     
 [![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat=sqaure&logo=Velog&logoColor=white&link=https://velog.io/@winy3ori_)](https://velog.io/@winy3ori_)
