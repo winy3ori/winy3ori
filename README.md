@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwiny3ori&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)  
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fwiny3ori?color=green&label=hits&size=small)](https://myhits.vercel.app)
 
     
 [![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat=sqaure&logo=Velog&logoColor=white&link=https://velog.io/@winy3ori_)](https://velog.io/@winy3ori_)
