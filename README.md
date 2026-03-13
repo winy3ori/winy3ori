@@ -1,32 +1,17 @@
 ## Hi I'm y3ori 👋
 
 
-<!--
-**winy3ori/winy3ori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://hits.sh/github.com/winy3ori/"><img alt="Hits" src="https://hits.sh/github.com/winy3ori.svg?view=today-total&style=flat-square&logo=github" align="right"/></a>
 
-Here are some ideas to get you started:
+<p>
+<a href="https://velog.io/@winy3ori_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="mailto:winy3ori@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/winy3ori"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-
-<a href="https://hits.sh/github.com/winy3ori/"><img alt="Hits" src="https://hits.sh/github.com/winy3ori.svg?view=today-total&logo=github" align="right"/></a>
-    
-[![Velog Badge](https://img.shields.io/badge/-Velog-20c997?style=flat=sqaure&logo=Velog&logoColor=white&link=https://velog.io/@winy3ori_)](https://velog.io/@winy3ori_)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:winy3ori@gmail.com)](mailto:winy3ori@gmail.com)
-
-
-<br>
-
-
-#### BackEnd
+##### BackEnd
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -36,16 +21,15 @@ Here are some ideas to get you started:
 </p>
 
 
-#### FrontEnd
+##### FrontEnd
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
 </p>
 
-#### DB
+##### DB
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
@@ -54,7 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
 
-#### DevOps & Infra
+##### DevOps & Infra
 <p>
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
@@ -64,5 +48,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 </p>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=winy3ori)](https://solved.ac/winy3ori)
+---
+
+<p><a href="https://solved.ac/winy3ori"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=winy3ori" height="150"/></a></p>
+
+---
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=winy3ori&show_icons=true&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winy3ori&layout=compact&theme=tokyonight" height="150"/>
+
