@@ -1,4 +1,4 @@
-## Hi I'm y3ori 👋
+#### Meet y3ori 🖐️
 
 
 <a href="https://hits.sh/github.com/winy3ori/"><img alt="Hits" src="https://hits.sh/github.com/winy3ori.svg?view=today-total&style=flat-square&logo=github" align="right"/></a>
