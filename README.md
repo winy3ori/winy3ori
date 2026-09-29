@@ -4,7 +4,6 @@
 <a href="https://hits.sh/github.com/winy3ori/"><img alt="Hits" src="https://hits.sh/github.com/winy3ori.svg?view=today-total&style=flat-square&logo=github" align="right"/></a>
 
 <p>
-<a href="https://velog.io/@winy3ori_"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 <a href="mailto:winy3ori@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/winy3ori"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
